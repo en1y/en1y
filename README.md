@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!
+
+---
+
+- I am a beginner coder that sepcifies in Java but knows basic of a big variety of languages like C++, JS, React, Python etc.
 
 <!--
 **Mr-Coolf/Mr-Coolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
